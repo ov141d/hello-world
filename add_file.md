@@ -9,3 +9,4 @@ user 3 adds another line
 user 4 adds a line
 
 user 1 makes changes in the add file
+user 1 adds another line to add_file
