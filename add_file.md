@@ -7,3 +7,5 @@ user 1 changes a line here
 user 2 changes a line at the same spot
 user 3 adds another line
 user 4 adds a line
+
+user 1 makes changes in the add file
